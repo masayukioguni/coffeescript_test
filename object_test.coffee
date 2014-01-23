@@ -7,4 +7,4 @@ pos =
     console.log "x:#{@x},y:#{@y}"
 
 
-pos.dump
+pos.dump()
